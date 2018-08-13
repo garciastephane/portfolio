@@ -1,21 +1,21 @@
 
 container {
-  font-family: 'Sriracha';
+  font-family: 'Sriracha'cursive;
   color:red;
   font-size: 100px;
 }
 
 h1 {
-  font-family: 'Sofia';
+  font-family: 'Sofia'sans-serif;
   color: blue;
 }
 
 h2 {
-  font-family: 'Sriracha';
+  font-family: 'Sriracha'sans-serif;
   color: orange
 }
 
 h3 {
-  font-family: 'Salsa';
+  font-family: 'Salsa'sans-serif;
   color: greenyellow
 }
