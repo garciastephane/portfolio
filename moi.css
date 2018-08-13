@@ -1,0 +1,21 @@
+
+container {
+  font-family: 'Sriracha';
+  color:red;
+  font-size: 100px;
+}
+
+h1 {
+  font-family: 'Sofia';
+  color: blue;
+}
+
+h2 {
+  font-family: 'Sriracha';
+  color: orange
+}
+
+h3 {
+  font-family: 'Salsa';
+  color: greenyellow
+}
