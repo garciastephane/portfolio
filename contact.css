@@ -28,13 +28,12 @@
   width: 50%;
 }
 
-.form-line{
-  border-right: 0px solid #B29999;
-}
-
 .form-group{
   margin-top: 10px;
+  overflow:auto;
 }
+
+
 label{
   font-size: 1.3em;
   line-height: 1em;
@@ -49,12 +48,3 @@ textarea.form-control {
    /* margin-top: px;*/
 }
 
-.submit{
-    font-family: 'Sofia', sans-serif;
-  font-size: 1.1em;
-  float: right;
-  width: 150px;
-  background-color: transparent;
-  color: #fcc500;
-
-}
