@@ -2,7 +2,7 @@
 .content-header{
   font-family: 'Salsa', cursive;
   color:#fcc500;
-  font-size: 45px;
+  font-size: 40px;
 }
 
 .section-content{
@@ -12,17 +12,17 @@
 #contact{
     
     font-family: 'Sofia', sans-serif;
-  padding-top: 60px;
+  padding-top: 10px;
   width: 100%;
   width: 100vw;
-  height: 550px;
+  height: 700px;
   background: #3a6186; /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #3a6186 , #89253e); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to left, #3a6186 , #89253e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color : #fff;    
 }
 .contact-section{
-  padding-top: 40px;
+  padding-top: 30px;
 }
 .contact-section .col-md-6{
   width: 50%;
