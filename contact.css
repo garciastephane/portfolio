@@ -31,7 +31,7 @@
 .form-group{
   margin-top: 10px;
   overflow:auto;
-  position: relative;
+ 
 }
 
 
@@ -45,7 +45,17 @@ label{
   color: #080808;
 }
 textarea.form-control {
-    height: 135px;
+  height: 135px;
    /* margin-top: px;*/
 }
 
+.btn-custom {
+  background-color: #00dffc;
+  color:black;
+  font-family: 'Sofia';
+
+}
+
+.btn-custom:hover {
+  background-color:cornsilk; 
+}
