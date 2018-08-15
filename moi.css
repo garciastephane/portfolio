@@ -28,6 +28,7 @@ a, a:hover {
     line-height: 120px;   
 }
 
+
 .logo {
   color: #fcc500;
   font-family: 'Anton';
@@ -36,7 +37,6 @@ a, a:hover {
   font-size: 35px;
   letter-spacing: 1px;
 }
-
 
 
 .menu {
@@ -53,7 +53,7 @@ a, a:hover {
 }
 
 .menu a:hover {
-  color:floralwhite;
+  color:cornsilk;
 }
 
 /* bannière */
@@ -75,18 +75,28 @@ a, a:hover {
 }
 .inner-banner {
   position: absolute;
-  top:90%;
+  top:100%;
   left:0;
   width: 100%;
   text-align: center;
 }
 
 .inner-banner h1 {
-  color : #fff;
+  color : #fad390;
   font-family:'Sofia';
   font-weight: bolder;
   letter-spacing: 1px;
+  text-shadow: 1px 1px 20 px #000000;
+}
 
+.inner-banner .btn-custom {
+  background-color: #00dffc;
+  color:black;
+  font-family: 'Sofia';
+}
+
+.inner-banner .btn-custom:hover {
+  background-color:cornsilk; 
 }
 
 
