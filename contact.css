@@ -31,7 +31,7 @@
 .form-group{
   margin-top: 10px;
   overflow:auto;
- 
+  
 }
 
 
@@ -46,8 +46,11 @@ label{
 }
 textarea.form-control {
   height: 135px;
-   /* margin-top: px;*/
+  
 }
+
+   /* margin-top: px;*/
+
 
 .btn-custom {
   background-color: #00dffc;
