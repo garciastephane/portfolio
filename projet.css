@@ -123,6 +123,7 @@ h1 {
  html, body{
   height: 100%;
   font-weight: 800;
+  margin: -10px;
 }
 
 body{
@@ -175,4 +176,8 @@ svg {
 
 @keyframes stroke-offset{
 	100% {stroke-dashoffset: -35%;}
+}
+
+.Copyright {
+    text-align: center;
 }
