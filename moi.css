@@ -155,12 +155,20 @@ a, a:hover {
 .about article h2 {
   text-align: center;
   color:#840037;
+  font-family: 'Anton';
+ ;
 
+}
+
+.about article h2:hover {
+  color: #2972fa;
 }
 
 .about article {
   margin-top:10%; 
-  margin-bottom: 10%;
+  margin-bottom: 5%;
+  text-align: left;
+  font-family: 'Salsa';
 }
 
 /* end à propos */
