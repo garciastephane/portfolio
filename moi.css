@@ -69,7 +69,7 @@ a, a:hover {
   color:#00dffc;
 }
 
-
+/* end header */
 
 /* bannière */
 
@@ -330,3 +330,10 @@ svg {
 
 /* social nework */
 
+#cache1 {display:none}
+
+
+#cache2 {display:none}
+
+
+#cache3 {display:none}
