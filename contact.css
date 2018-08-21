@@ -1,3 +1,50 @@
+/* header */
+
+.header {
+  background: #3a6186; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #3a6186 , #89253e); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #3a6186 , #89253e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color : #fff; 
+  height: 130px;
+  line-height: 130px;   
+}
+
+
+.logo {
+  color: #F7F3EA;
+  font-family: 'Anton';
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 35px;
+  letter-spacing: 1px;
+}
+
+
+.menu {
+  float: right;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-family: 'Salsa', sans-serif;
+  font-size-adjust: 30px;
+}
+
+.menu a {
+  color: #F7F3EA;
+  margin-right: 10px;
+}
+
+.menu a:hover {
+  color:#00dffc;
+}
+
+
+/* end header */
+
+
+
+
+
 /*Contact sectiom*/
 .content-header{
   font-family: 'Salsa', cursive;
