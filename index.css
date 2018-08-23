@@ -175,10 +175,10 @@ a, a:hover {
 
 
 
-/* portfolio */
+/* me */
 
 
-.portfolio h1 {
+.me h1 {
   
 	 color:#89253e;
   letter-spacing: 1px;
@@ -189,14 +189,19 @@ a, a:hover {
     
 }
 
-.portfolio article {
+.me h1:hover {
+
+  color: #2972fa;
+}
+
+.me article {
   margin-top: 35px;
   font-family: 'Salsa'
 }
 
 
 
-/* end portfolio */
+/* end me */
 
 
 /* footer */
