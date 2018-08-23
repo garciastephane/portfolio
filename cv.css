@@ -1,0 +1,143 @@
+@charset "UFT-8";
+/* font-family: 'Salsa', Sofia; */
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+.body{
+  font-family: 'Anton', sans-serif;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+.container-fluid {
+  padding: 0;
+
+}
+
+.separator{
+  height: 3px;
+  width: 90%;
+  border: none;
+  box-shadow: none;
+  background: #3a6186; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #3a6186 , #89253e); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #3a6186 , #89253e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  margin-top: 5%;
+}
+
+/* header */
+
+.header {
+  background: #3a6186; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #3a6186 , #89253e); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #3a6186 , #89253e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color : #fff; 
+  height: 130px;
+  line-height: 130px;   
+}
+
+
+.logo {
+  color: #F7F3EA;
+  font-family: 'Anton';
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 35px;
+  letter-spacing: 1px;
+}
+
+
+.menu {
+  float: right;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-family: 'Salsa', sans-serif;
+  font-size-adjust: 30px;
+}
+
+.menu a {
+  color: #F7F3EA;
+  margin-right: 10px;
+}
+
+.menu a:hover {
+  color:#00dffc;
+}
+
+/* end header */
+
+/* footer */
+
+
+
+ html, body{
+  height: 100%;
+  font-weight: 800;
+}
+
+body{
+  background: #030321;
+  font-family: 'Salsa';
+}
+
+svg {
+    display: block;
+    font: 10.5em 'Montserrat';
+    width: 960px;
+    height: 300px;
+    margin: 0 auto;
+   
+}
+
+.text-copy {
+    fill: none;
+    stroke: white;
+    stroke-dasharray: 6% 29%;
+    stroke-width: 5px;
+    stroke-dashoffset: 0%;
+    animation: stroke-offset 5.5s infinite linear;
+}
+
+.text-copy:nth-child(1){
+    stroke: #4D163D;
+	animation-delay: -1;
+}
+
+.text-copy:nth-child(2){
+	stroke: #840037;
+	animation-delay: -2s;
+}
+
+.text-copy:nth-child(3){
+	stroke: #BD0034;
+	animation-delay: -3s;
+}
+
+.text-copy:nth-child(4){
+	stroke: #BD0034;
+	animation-delay: -4s;
+}
+
+.text-copy:nth-child(5){
+	stroke: #fab633;
+	animation-delay: -5s;
+}
+
+@keyframes stroke-offset{
+	100% {stroke-dashoffset: -35%;}
+}
+
+/* social nework */
+
+#cache1 {display:none}
+
+
+#cache2 {display:none}
+
+
+#cache3 {display:none}
