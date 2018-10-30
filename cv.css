@@ -24,7 +24,21 @@ font-family: 'Salsa';
 }
 
 .me article p {
-  font-family: 'Salsa'
+  font-family: 'Salsa';
+}
+
+.ban {
+  width: 50%;
+  max-width: 90%;
+  position: relative;
+   
+}
+
+
+.ban img {
+  width: 100%;
+  max-width: 100%;
+
 }
 
 a, a:hover {
